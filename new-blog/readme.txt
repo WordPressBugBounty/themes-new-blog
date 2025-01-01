@@ -36,6 +36,9 @@ Description: New blog theme is fairly developed theme. It supports Gutenberg edi
 
 == Changelog ==
 
+= 1.5.8 jan 1 2025
+* support upto wp 6.7.1
+
 = 1.5.7 August 16 2024
 * tested upto wp 6.6, lenis disable at modal 
 
